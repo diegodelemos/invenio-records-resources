@@ -16,8 +16,8 @@ readme = open("README.rst").read()
 history = open("CHANGES.rst").read()
 
 tests_require = [
-    "invenio-app>=1.3.0",
-    "pytest-invenio>=1.4.0",
+    'invenio-app>=1.3.0',
+    'pytest-invenio>=1.4.0'
 ]
 
 # Should follow inveniosoftware/invenio versions
